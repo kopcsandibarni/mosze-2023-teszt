@@ -29,7 +29,7 @@ int main()
 
     std::cout << "Atlag: " << atlag << std::endl;
 
-    std::cout << "Uj kiiratas - Eredits: " << std::endl;
+    std::cout << "Uj kiiratas - Eredits Dániel" << std::endl;
 
     delete[] b;
 
