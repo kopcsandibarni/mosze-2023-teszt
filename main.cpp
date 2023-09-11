@@ -29,8 +29,6 @@ int main()
 
     std::cout << "Atlag: " << atlag << std::endl;
 
-    std::cout << "Uj kiiratas - Eredits: " << std::endl;
-
     delete[] b;
 
     return 0;
